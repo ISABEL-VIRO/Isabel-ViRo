@@ -1,5 +1,11 @@
 ### Hola que tal ! Soy Isabel Villanueva 🐈👩‍💻☕👋
 
+const devIsabel = {
+  nameFull: Maria Isabel Villanueva ,
+  skills: [HTML, CSS, JS],
+  currentWorking : Refill Creativo
+}
+
 <!--
 **ISABEL-VIRO/Isabel-ViRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
