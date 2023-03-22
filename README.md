@@ -1,22 +1,20 @@
-### Hola que tal ! Soy Isabel Villanueva 🐈👩‍💻☕👋
-
+# console.log ( "Hola! ,soy Isabel Villanueva 👩‍💻")
+(https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+###
+~~~
 const devIsabel = {
   nameFull: Maria Isabel Villanueva ,
-  skills: [HTML, CSS, JS],
-  currentWorking : Refill Creativo
+  rol: Developer Wordpress,
+  currentWorking : Refill Creativo,
+  skills: [HTML, CSS, JS, Wordprees,Mysql],
+  personalTaste: [☕,📔,🍕,🐈]  
 }
+~~~
 
-<!--
-**ISABEL-VIRO/Isabel-ViRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta compartir mis proyectos personales que desarrollo en los cursos y videotutorales que tomo para mejorar mis habilidades y mantenerme en constante aprendizaje.
+Me considero una persona que ama aprender⌨️, ser autodidacta 💻, tener metas y trabajar en equipo ✨.
 
-Here are some ideas to get you started:
+#### Ecnuentrame en ...
+![linkedin](https://www.linkedin.com/in/isabel-villanueva-romero/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
