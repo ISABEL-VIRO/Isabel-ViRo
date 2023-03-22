@@ -15,7 +15,7 @@ const devIsabel = {
 >
 *Me considero una persona que ama aprender⌨️, ser autodidacta 💻, tener metas y trabajar en equipo ✨.*
 
-##### 🔗[Linkedin](https://www.linkedin.com/in/isabel-villanueva-romero/) | ✉️ [Mail](mailto:isabelvillanueva.497@gmail.com)
+#### 🔗[Linkedin](https://www.linkedin.com/in/isabel-villanueva-romero/) | ✉️ [Mail](mailto:isabelvillanueva.497@gmail.com)
 
 
 
